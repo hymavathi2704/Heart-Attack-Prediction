@@ -100,3 +100,4 @@ if st.button("Predict"):
 st.sidebar.subheader("About App")
 st.sidebar.info("This web app helps you find out whether you are at risk of a heart attack.")
 st.sidebar.info("Enter the required fields and click on the 'Predict' button to check your risk level.")
+st.sidebar.info("Developed By Hyma and the Team !!!")
